@@ -11,6 +11,7 @@ export default function Index() {
       }}
     >
       <Text className="text-2xl font-bold text-blue-500 bg-gray-300 p-2 rounded-lg">Authentication Page Using OTP</Text>
+      <Text className="text-2xl font-bold text-blue-500 bg-gray-300 p-2 rounded-lg mt-2">Cheking </Text>  
     </View>
   );
 }
